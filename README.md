@@ -15,10 +15,8 @@ A working prototype: real login per department (CSE, CSE-DS, CSE-CY, EEE), real
 persistent database, real QR codes per department, live dashboard of paper waste
 diverted with calculated environmental impact (trees/water/CO₂ saved).
 
-## What this isn't (be upfront about this if asked)
+## What this isn't 
 
-- Not integrated with a real recycling partner yet — that's framed honestly in the
-  UI as "pilot conversation in progress"
 - No password-reset flow, no admin panel — out of scope for a 2-3 day build
 - Department passwords are shared defaults (`paperloop2026`) seeded by a script,
   not self-service signup — fine for a pilot demo, not for a real multi-year rollout
